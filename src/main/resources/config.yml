@@ -1,0 +1,13 @@
+arena:
+  corner1:
+    x: -8
+    y: 106
+    z: -194
+  corner2:
+    x: 21
+    y: 150
+    z: -226
+respawn:
+  x: 5
+  y: 106
+  z: -186
