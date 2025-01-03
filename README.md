@@ -13,9 +13,7 @@ This plugin is a work-in-progress snowball fight minigame for Minecraft!
 - **Development Stage:** Unfinished.
 
 ### How to Use
-1. Install the plugin on your Minecraft server.
-2. Follow the setup instructions (to be documented in the future).
-3. Play and have fun!
+- coming later
 
 ### Roadmap
 - [ ] Add English translations.
